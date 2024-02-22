@@ -1,5 +1,6 @@
 class Solution {
     public int findJudge(int n, int[][] trust) {
+        
         int[] trusting = new int[n + 1];
         int[] trusted = new int[n + 1];
 
