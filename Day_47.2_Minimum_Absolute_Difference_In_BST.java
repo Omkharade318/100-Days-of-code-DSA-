@@ -1,4 +1,4 @@
-class Solution {
+class Solution  {
   public int getMinimumDifference(TreeNode root) {
     int ans = Integer.MAX_VALUE;
     int prev = -1;
